@@ -1,0 +1,15 @@
+# dependencies  npm包文件
+/node_modules
+
+# 环境文件
+.env_dev
+
+# misc 
+.DS_Store
+
+npm-debug.log*
+/artifacts
+/cache
+/deployments/abi/*
+/deployments/dev/*
+/deployments/rinkeby/*
